@@ -1,0 +1,5 @@
+numpy>=1.26.0
+pandas>=2.1.0
+ta-lib>=0.4.28
+freqtrade>=2024.1
+jesse>=0.45.0
